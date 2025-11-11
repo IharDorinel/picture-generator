@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Image Chat",
+  "description": "An application that allows users to generate images from text descriptions in a chat interface. The interface is split into two parts: a chat on the left and an image display on the right.",
+  "requestFramePermissions": []
+}
